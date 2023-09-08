@@ -1,0 +1,52 @@
+html {
+    font-size: 62,5%;
+}
+
+
+
+body {
+    border: 1rem solid #F2EFEF;
+    border-radius: 30px;
+    
+}
+
+body > * {
+    background-color: #F2EFEF;
+    
+}
+
+h1, p, h2, ol, li {
+    padding-bottom: 1rem;
+}
+h1 {
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1.6rem;
+}
+
+p{
+    padding-left: 1rem;
+}
+
+li {
+    padding-left: 1rem;
+}
+
+button {
+    border-radius: 0.4rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    background-color: #453F86;
+    color: white;
+}
+
+#rinnakkain {
+    display: flex;
+    justify-content: space-between;
+}
+
+#fonttikoko {
+    padding: 1rem;
+}
